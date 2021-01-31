@@ -1,0 +1,2 @@
+# EthanFarm
+Garden automation
